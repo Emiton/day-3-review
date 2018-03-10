@@ -1,13 +1,11 @@
-GOALS AS A DEVELOPER
+TAKEAWAYS FROM THE COURSE
 ==================================
 ================================== 
-Learn HTML, CSS, Javascript
-Learn the MEAN stack
-Create iventory/ordering application for family business
-Strengthen object oriented programming skils
-Improve knowledge of data structures
-Improve knowledge of algorithms
-Secure a fulltime position as a devOps engineer
-Complete an AI project
-Create a mobile app
-Create a professional website
+The team is more powerful than the individual
+Use source control 
+git != GitHub
+git is an amzaing tool
+Be clear when commenting commits
+Some of your biggest problems will be a missed character
+If you cannot find the answer, find help
+Interact with your classmates
