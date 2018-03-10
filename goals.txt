@@ -1,0 +1,13 @@
+GOALS AS A DEVELOPER
+==================================
+================================== 
+Learn HTML, CSS, Javascript
+Learn the MEAN stack
+Create iventory/ordering application for family business
+Strengthen object oriented programming skils
+Improve knowledge of data structures
+Improve knowledge of algorithms
+Secure a fulltime position as a devOps engineer
+Complete an AI project
+Create a mobile app
+Create a professional website
